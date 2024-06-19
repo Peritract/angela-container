@@ -25,6 +25,7 @@ To run the example code successfully, you'll need a `.env` file with the followi
 
 ```sh
 API_KEY=XXXXXXXXXX
+API_URL=https://www.behindthename.com/api/lookup.json
 NAME=XXXXX
 ```
 
